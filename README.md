@@ -1,1 +1,2 @@
-Group Projects Testing, Kindly try to edit this
+Group Project C-printf.
+collaboration of Dismas Albert and Nathi Sibiya
